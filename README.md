@@ -7,7 +7,7 @@ Skype: `https://join.skype.com/invite/vqPBbLJutJx2`
 
 Telegram `https://t.me/wholespace`
 
-Discord: `! wholespace#0001`
+Discord: `! wholespace#2057`
 
 Slack: `wholespace.214@gmail.com`
 
