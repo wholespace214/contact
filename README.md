@@ -10,7 +10,7 @@ Telegram `https://t.me/wholespace`
 
 WhatsApp `https://web.whatsapp.com/send?phone=+19096547095`
 
-Discord: `wholespace`
+Discord: `.wholespace`
 
 Slack: `wholespace.214@gmail.com`
 
