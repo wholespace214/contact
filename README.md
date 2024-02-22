@@ -4,13 +4,13 @@
 
 
 
-Skype: `https://join.skype.com/invite/vqPBbLJutJx2`
+Skype:
 
-Telegram `https://t.me/wholespace`
+Telegram:
 
-WhatsApp `https://web.whatsapp.com/send?phone=+19096547095`
+WhatsApp:
 
-Discord: `.wholespace`
+Discord:
 
 Slack: `wholespace.214@gmail.com`
 
